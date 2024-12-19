@@ -12,26 +12,6 @@ var app = new function() {
         name: "3_Hats",
         color: "b816ad",
         uniqsnd: !0
-    }, {
-        name: "4_Open",
-        color: "b816ad",
-        uniqsnd: !0
-    }, {
-        name: "5_Riser",
-        color: "b816ad",
-        uniqsnd: !0
-    }, {
-        name: "6_Bass",
-        color: "3a5af0",
-        uniqsnd: !1
-    }, {
-        name: "11_Oh",
-        color: "3a5af0",
-        uniqsnd: !1
-    }, {
-        name: "12_Do",
-        color: "3a5af0",
-        uniqsnd: !1
     }], this.bonusarray = [];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
 		var a = this.animearray[n].name;
