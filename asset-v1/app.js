@@ -20,6 +20,14 @@ var app = new function() {
         name: "5_Riser",
         color: "b816ad",
         uniqsnd: !0
+	}, {
+        name: "6_Bass",
+        color: "b816ad",
+        uniqsnd: !2
+	}, {
+        name: "11_Oh",
+        color: "b816ad",
+        uniqsnd: !2
     }], this.bonusarray = [];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
 		var a = this.animearray[n].name;
